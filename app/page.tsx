@@ -3,6 +3,7 @@ import Link from "next/link";
 import AdBanner from "@/components/AdBanner";
 import { getRecentArticles } from "@/lib/articles";
 import { getLiveExamStatuses } from "@/lib/liveStatus";
+<meta name="google-site-verification" content="ISmgKwWZhQ4t5AJc6mtzNtFrDjREQfrMdp3to3bc8Sc" />
 
 export const metadata: Metadata = {
   title: "NepalPathshala — Nepal's #1 Education & Results Hub",
