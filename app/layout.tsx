@@ -14,6 +14,7 @@ export const metadata: Metadata = {
   authors: [{ name: "NepalPathshala Team" }],
   metadataBase: new URL("https://nepalpathshala.com"),
   openGraph: { type: "website", locale: "en_NP", siteName: "NepalPathshala" },
+  verification: { google: "ISmgKwWZhQ4t5AJc6mtzNtFrDjREQfrMdp3to3bc8Sc" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
